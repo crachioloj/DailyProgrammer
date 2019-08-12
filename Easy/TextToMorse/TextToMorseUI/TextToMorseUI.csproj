@@ -80,8 +80,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TextToMorseDotNetStandard\TextToMorse.csproj">
-      <Project>{fd51ca13-28f5-43a1-8307-f49be6d5192f}</Project>
+    <ProjectReference Include="..\TextToMorse\TextToMorse.csproj">
+      <Project>{023433cb-60ab-493c-b7e8-6014c09b0d09}</Project>
       <Name>TextToMorse</Name>
     </ProjectReference>
   </ItemGroup>
