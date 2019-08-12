@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace easy_2019_08_05
+namespace TextToMorse
 {
     class Program
     {

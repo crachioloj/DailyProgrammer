@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace easy_2019_08_05
+namespace TextToMorse
 {
     public class TextToMorseConverter
     {

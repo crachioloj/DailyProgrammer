@@ -1,5 +1,5 @@
-using easy_2019_08_05;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using TextToMorse;
 
 namespace TextToMorseConverterTest
 {
