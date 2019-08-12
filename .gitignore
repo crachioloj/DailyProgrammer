@@ -1,0 +1,5 @@
+*.vs
+/Easy/TextToMorse/TextToMorse/bin/Debug/netcoreapp2.2
+/Easy/TextToMorse/TextToMorse/obj
+/Easy/TextToMorse/TextToMorseTest/bin/Debug/netcoreapp2.2
+/Easy/TextToMorse/TextToMorseTest/obj
