@@ -24,7 +24,7 @@ namespace TextToMorseUI
         private void BtnSubmit_Click(object sender, EventArgs e)
         {
             _Input = this.txtInput.Text;
-            _MorseCode = TextToMorseConverter.Convert(_Input);
+            _MorseCode = TextToMorseConverter.Convert0(_Input);
             this.txtOutput.Text = _MorseCode;
         }
     }

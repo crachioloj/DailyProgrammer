@@ -82,7 +82,7 @@ namespace TextToMorse
                 { '6', Char6 },
                 { '7', Char7 },
                 { '8', Char8 },
-                { '9', Char9 },
+                { '9', Char9 }
             };
     }
 }
